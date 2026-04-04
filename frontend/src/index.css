@@ -1,0 +1,19 @@
+html {
+  background: #f5efe4;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  color: #153339;
+  font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(154, 208, 199, 0.35), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(245, 202, 142, 0.24), transparent 26%),
+    #f5efe4;
+}
+
+#root {
+  min-height: 100vh;
+}
